@@ -1,0 +1,33 @@
+{
+  "audioInfo": [
+    {
+      "title": "08",
+      "audios": [
+        {
+          "title": "01",
+          "src": "https://res.cloudinary.com/daqgcqpx2/video/upload/v1574493239/schritte/A1.2/arbeits/8/01_L08_Schritt_A_9a.mp3"
+        },
+        {
+          "title": "02",
+          "src": "https://res.cloudinary.com/daqgcqpx2/video/upload/v1574493195/schritte/A1.2/arbeits/8/02_L08_Schritt_A_9b.mp3"
+        },
+        {
+          "title": "03",
+          "src": "https://res.cloudinary.com/daqgcqpx2/video/upload/v1574493200/schritte/A1.2/arbeits/8/03_L08_Schritt_A_9c.mp3"
+        },
+        {
+          "title": "04",
+          "src": "https://res.cloudinary.com/daqgcqpx2/video/upload/v1574493214/schritte/A1.2/arbeits/8/04_L08_Schritt_A_10.mp3"
+        },
+        {
+          "title": "05",
+          "src": "https://res.cloudinary.com/daqgcqpx2/video/upload/v1574493267/schritte/A1.2/arbeits/8/05_L08_Schritt_D_31.mp3"
+        },
+        {
+          "title": "06",
+          "src": "https://res.cloudinary.com/daqgcqpx2/video/upload/v1574493237/schritte/A1.2/arbeits/8/06_L08_Schritt_E_34b.mp3"
+        }
+      ]
+    }
+  ]
+}
